@@ -12,8 +12,8 @@ pipeline {
 
     environment {
         //TODO: Edit these vars as per your env
-        DEV_PROJECT = "venusvillareal-books-dev"
-        STAGE_PROJECT = "venusvillareal-books-stage"
+        DEV_PROJECT = "villarv-ph-ibm-com-books-dev"
+        STAGE_PROJECT = "villarv-ph-ibm-com-books-stage"
         APP_GIT_URL = "https://github.com/venusvillareal/DO288-apps"
         NEXUS_SERVER = "nexus-common.apps.ocp-eu2.prod.nextcle.com/repository/nodejs"
 
